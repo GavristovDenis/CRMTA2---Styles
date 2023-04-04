@@ -1,0 +1,31 @@
+export const Balls = () => {
+    return (
+        <div>
+            <img
+                alt="redlight010"
+                src="/playground_assets/redlight010-ua6q-400w.png"
+                className="desktop-redlight"
+            />
+            <img
+                alt="purplelight011"
+                src="/playground_assets/purplelight011-ylnf-300h.png"
+                className="desktop-purplelight"
+            />
+            <img
+                alt="redball012"
+                src="/playground_assets/redball012-cxos-200h.png"
+                className="desktop-redball"
+            />
+            <img
+                alt="redball013"
+                src="/playground_assets/redball013-vmmo-200h.png"
+                className="desktop-redball1"
+            />
+            <img
+                alt="purpleball014"
+                src="/playground_assets/purpleball014-zvec-200h.png"
+                className="desktop-purpleball"
+            />
+        </div>
+    )
+}
